@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:editable="true"
+        android:foregroundTintMode="add"
+        android:icon="@drawable/ic_person_black"
+        android:key="@string/PREF_KEY_NAME"
+        android:summary="Nama Anda"
+        android:title="Nama" />
+
+</PreferenceScreen>
